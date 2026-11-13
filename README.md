@@ -11,7 +11,7 @@ The zip file include precompiled firmware (a bit file and hwh), a matching QICK 
 
 Python runs on the RFSoC board. Use the supplied library rather than the system-installed QICK package. 
 
-#Technical details:
+
 ## Hardware configuration
 | Board: RFSoC4x2, XCZU48DR |
 | Processor: tProc v1 |
